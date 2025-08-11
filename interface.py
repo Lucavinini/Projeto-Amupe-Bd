@@ -1,9 +1,9 @@
 
 def Interface():
     print("____________________________")
-    print("1. Inserir um novo prefeito")
-    print("2. Editar os dados de um prefeito")
-    print("3. Buscar")
-    print("4. Exibir os dados em CSV")
+    print("1. Buscar")
+    print("2. Inserir")
+    print("3. Editar")
+    print("4. Deletar")
+    print("5. Sair")
     print("____________________________")
-
